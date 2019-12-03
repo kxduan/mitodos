@@ -1,0 +1,10 @@
+td.my {
+	color: red;
+}
+table, th, td {
+    border: none;
+}
+th, td {
+    text-align: center;
+    vertical-align: middle;
+}
